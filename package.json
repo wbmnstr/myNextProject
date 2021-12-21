@@ -15,5 +15,18 @@
   "devDependencies": {
     "eslint": "8.5.0",
     "eslint-config-next": "12.0.7"
-  }
+  },
+  "description": "kurulum için ilk kodumuzu terminale yazıyoruz",
+  "version": "1.0.0",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wbmnstr/mynextproject.git"
+  },
+  "author": "wbmnstr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wbmnstr/mynextproject/issues"
+  },
+  "homepage": "https://github.com/wbmnstr/mynextproject#readme"
 }
