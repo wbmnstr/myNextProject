@@ -2,17 +2,20 @@
 
 kurulum için ilk kodumuzu terminale yazıyoruz
 
-[`npx create-next-app myproject --use-npm`]
+`npx create-next-app myproject --use-npm`
+
 bu kod ile myproject ismi ile bir klasör 
 oluşturup içine gerekli dosyaları atıyor.
 
 tabi istersek mevcut bir klasörün içindeyken 
 o klasöre kursun diye proje ismi yerine . nokta
 koyarak da direk o ortama kurulum yapabiliriz.
-[`npx create-next-app . --use-npm`]
+
+`npx create-next-app . --use-npm`
 
 öncelikle çalıştırmamız gereke kod
-[`npm run dev`]
+
+`npm run dev`
 
 
 
