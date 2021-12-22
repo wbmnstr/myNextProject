@@ -8,7 +8,7 @@
 }
 
 .card {
-  background-color: aliceblue;
+  display: flex;
   margin: 1rem;
   flex-basis: 45%;
   padding: 1.5rem;
