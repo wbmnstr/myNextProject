@@ -1,7 +1,6 @@
-import styles from './Nav';
-import Nav from '../components/Nav';
-import Header from '../components/Header';
-
+import Nav from './Nav';
+import Header from './Header';
+import styles from '../styles/Layout.module.css';
 
 const Layout = ({children}) => {
     return (

@@ -3,9 +3,10 @@ import headerStyles from '../styles/Header.module.css';
 const Header = () => {
     return (
         <div>
-            <h1 className='title'>
-                <span>WEbDev</span> News
-            </h1>
+            <h1 className={headerStyles.title}><span className='title'>WebDev</span> Newz</h1>
+            <p className={headerStyles.description}>Keep up to date with the latest web dev news</p>
+
+            {/* this is how we do jsx style in react component */}
             <style jsx>
                 {`
                     .title{
